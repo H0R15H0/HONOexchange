@@ -8,8 +8,12 @@
 こんな便利な"HONOexchange"、使わない手はありません。ぜひご活用ください！
 
 ## Set up
+```
 install python
 pip install flask
+```
 
 ## Set up with docker (作成中)
+```
 docker-compose up
+```
