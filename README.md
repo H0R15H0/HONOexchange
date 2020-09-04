@@ -11,9 +11,13 @@
 ```
 install python
 pip install flask
+python hono.py
 ```
 
-## Set up with docker (作成中)
+## Set up with docker
 ```
+docker-compose build
 docker-compose up
 ```
+
+## Open http://localhost:5000
