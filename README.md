@@ -7,14 +7,14 @@
 そんな問題は"HONOexchange"を使えばたちどころに解決されます。必要な情報さえ入力ししてしまえばあとはこの"HONOexchange"が勝手にメール本文を作成してくれます。あなたがするのはコピペだけ！
 こんな便利な"HONOexchange"、使わない手はありません。ぜひご活用ください！
 
-## Set up
+## ・Set up
 ```
 install python
 pip install flask
 python hono.py
 ```
 
-## Set up with docker
+## ・Set up with docker
 ```
 docker-compose build
 docker-compose up
