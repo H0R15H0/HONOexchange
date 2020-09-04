@@ -108,8 +108,6 @@ def yoyakucomp_page() ->str:
 
                             the_yourname=yourname,)#予約完了画面
 
-app.run(debug=True)
 
-if __name__ == "__main__":
-
-    app.run()
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000, debug=True)
